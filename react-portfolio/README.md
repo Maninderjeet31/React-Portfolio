@@ -15,15 +15,15 @@ Thank You.
  <!-- ![Home Page](https://github.com/Maninderjeet31/MyResume_HTML/blob/master/images/1.png) -->
  ![Home Page](https://github.com/Maninderjeet31/React-Portfolio/blob/reactPhase2/react-portfolio/public/images/Screenshot1.png)
 
-1. About Page 
+2. About Page 
  <!-- ![Home Page](https://github.com/Maninderjeet31/MyResume_HTML/blob/master/images/1.png) -->
  ![Home Page](https://github.com/Maninderjeet31/React-Portfolio/blob/reactPhase2/react-portfolio/public/images/Screenshot2.png)
 
-1. Experience Page 
+3. Experience Page 
  <!-- ![Home Page](https://github.com/Maninderjeet31/MyResume_HTML/blob/master/images/1.png) -->
  ![Home Page](https://github.com/Maninderjeet31/React-Portfolio/blob/reactPhase2/react-portfolio/public/images/Screenshot3.png)
 
-1. Education Page 
+4. Education and Skills Page 
  <!-- ![Home Page](https://github.com/Maninderjeet31/MyResume_HTML/blob/master/images/1.png) -->
  ![Home Page](https://github.com/Maninderjeet31/React-Portfolio/blob/reactPhase2/react-portfolio/public/images/Screenshot4.png)
 
