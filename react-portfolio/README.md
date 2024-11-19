@@ -10,8 +10,22 @@ Feel free to explore the code and see how the concepts I learned are put into pr
 
 Thank You.
 
+### Screenshots
+1. Home Page 
  <!-- ![Home Page](https://github.com/Maninderjeet31/MyResume_HTML/blob/master/images/1.png) -->
  ![Home Page](https://github.com/Maninderjeet31/React-Portfolio/blob/reactPhase2/react-portfolio/public/images/Screenshot1.png)
+
+1. About Page 
+ <!-- ![Home Page](https://github.com/Maninderjeet31/MyResume_HTML/blob/master/images/1.png) -->
+ ![Home Page](https://github.com/Maninderjeet31/React-Portfolio/blob/reactPhase2/react-portfolio/public/images/Screenshot2.png)
+
+1. Experience Page 
+ <!-- ![Home Page](https://github.com/Maninderjeet31/MyResume_HTML/blob/master/images/1.png) -->
+ ![Home Page](https://github.com/Maninderjeet31/React-Portfolio/blob/reactPhase2/react-portfolio/public/images/Screenshot3.png)
+
+1. Education Page 
+ <!-- ![Home Page](https://github.com/Maninderjeet31/MyResume_HTML/blob/master/images/1.png) -->
+ ![Home Page](https://github.com/Maninderjeet31/React-Portfolio/blob/reactPhase2/react-portfolio/public/images/Screenshot4.png)
 
 ## Available Scripts
 
