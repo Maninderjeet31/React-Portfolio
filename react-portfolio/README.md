@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# React-Portfolio
+Hello. This is my portfolio website hosted on Github pages.
+
+This is a web application developed using React. The project showcases my learning journey as I built and implemented features using React, where I applied the knowledge I gained through online tutorials and courses. While the website is currently functional, I'm currently working on implementing advanced React features and ensuring full responsiveness across different devices. Stay tuned for updates as I continue to improve and enhance the site.
+
+Feel free to explore the code and see how the concepts I learned are put into practice!
+
+<!-- Visit my online portfolio by clicking on the attached link below:
+<> -->
+
+Thank You.
+
+ ![Home Page](https://github.com/Maninderjeet31/MyResume_HTML/blob/master/images/1.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
