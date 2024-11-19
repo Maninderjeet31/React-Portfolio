@@ -10,7 +10,8 @@ Feel free to explore the code and see how the concepts I learned are put into pr
 
 Thank You.
 
- ![Home Page](https://github.com/Maninderjeet31/MyResume_HTML/blob/master/images/1.png)
+ <!-- ![Home Page](https://github.com/Maninderjeet31/MyResume_HTML/blob/master/images/1.png) -->
+ ![Home Page](https://github.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
