@@ -11,7 +11,7 @@ Feel free to explore the code and see how the concepts I learned are put into pr
 Thank You.
 
  <!-- ![Home Page](https://github.com/Maninderjeet31/MyResume_HTML/blob/master/images/1.png) -->
- ![Home Page](https://github.com/)
+ ![Home Page](react-portfolio/public/images/Screenshot1.png)
 
 ## Available Scripts
 
