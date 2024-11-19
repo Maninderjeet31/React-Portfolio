@@ -1,0 +1,120 @@
+.fixed-bg {
+	min-height: 100%;
+	background-size: cover;
+	-webkit-background-size: cover !important; 
+	-moz-background-size: cover !important; 
+	-o-background-size: cover; 
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	padding: 0 20px;
+	line-height: 1.5;    
+  }
+
+  .homeDiv > h1 {
+	font-size: 3.5em;
+	color: rgba(255, 255, 255, 1);
+	text-shadow: 1px 1px 10px #000, 5px 5px 20px #000, 1px 0px 20px #def;
+	position: absolute;
+	width: 80%;
+	text-align: center;
+	filter: none;
+	line-height: 1;
+  }
+
+  .about-homeText {
+	height: 100%;
+	width: 100%;
+	font-family: sans-serif;
+	display: grid;
+	padding: 3%;
+	/* grid-template-columns: [first] 20% [line2] 60% [line3] auto [col4-start] 10% [five] 10% [end]; */
+  	grid-template-rows: [row1-start] 25% [row1-end] 60% [third-line] 15% [last-line] 0;
+  } 
+
+  .title-text{
+	color: #FCA311;
+	font-size: 40px;
+	font-weight: bolder;
+}
+
+.education-container {
+	width: 100%;
+	height: auto;
+	/* padding: 0 0 0 2%; */
+}
+
+.education-details{
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	padding: 2%;
+	justify-content: space-between;
+}
+
+.pad-correction{
+	min-height: 0 !important;
+}
+
+.edu-ui-start {
+	padding: 0 6% 0 3% !important;
+}
+
+.key-skills > ul{
+	list-style-type: none;
+	display: flex;
+	align-content: space-between;
+}
+
+.key-skills > ul > li {
+	width: 100%;
+}
+
+.key-skills > ul > li > h3 {
+	padding: 2% 0 2% 1%;
+	color: #14213D;
+	font-size: 26px;
+}
+
+.key-ui{
+	list-style-type: none;
+	display: flex;
+	align-content: space-between;
+	flex-wrap: wrap;
+	justify-content: left;
+}
+
+.no-pad {
+	list-style-type: none;
+}
+.no-pad:before {
+	content: '✓';
+  }
+
+.key-item {
+	padding: 3% 3% 3% 0;
+	width: fit-content;
+}
+
+.no-pad {
+	padding: 0 2% 0 0 !important;
+	width: fit-content;
+}
+
+.key-item > img{
+	width: 50px;
+	opacity: .65;
+}
+
+.key-item > h5{
+	font-size: 16px;
+	/* padding: 3% 3% 3% 0; */
+    /* padding: 5px 15px; */
+	/* font-weight: lighter; */
+	display: inline-block;
+    margin-bottom: 10px;
+}
